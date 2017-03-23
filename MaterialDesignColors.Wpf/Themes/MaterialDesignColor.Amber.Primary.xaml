@@ -10,7 +10,7 @@
   <Color x:Key="Primary300Foreground">#DD000000</Color>
   <Color x:Key="Primary400">#ffca28</Color>
   <Color x:Key="Primary400Foreground">#DD000000</Color>
-  <Color x:Key="Primary500">#ffc107</Color>
+    <Color x:Key="Primary500">#846e55</Color>
   <Color x:Key="Primary500Foreground">#DD000000</Color>
   <Color x:Key="Primary600">#ffb300</Color>
   <Color x:Key="Primary600Foreground">#DD000000</Color>
