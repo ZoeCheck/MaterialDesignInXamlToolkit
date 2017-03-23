@@ -4,7 +4,7 @@ using System.Linq;
 using System.Windows;
 using System.Windows.Media;
 
-namespace MaterialDesignThemes.Wpf
+namespace mdWpf
 {
     internal static class Extensions
     {

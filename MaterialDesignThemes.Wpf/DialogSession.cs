@@ -1,6 +1,6 @@
 using System;
 
-namespace MaterialDesignThemes.Wpf
+namespace mdWpf
 {
     /// <summary>
     /// Allows an open dialog to be managed. Use is only permitted during a single display operation.

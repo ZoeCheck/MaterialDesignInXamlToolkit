@@ -1,4 +1,4 @@
-﻿namespace MaterialDesignThemes.Wpf
+﻿namespace mdWpf
 {
     public delegate void DialogOpenedEventHandler(object sender, DialogOpenedEventArgs eventArgs);
 }

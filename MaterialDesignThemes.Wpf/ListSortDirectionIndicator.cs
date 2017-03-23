@@ -4,7 +4,7 @@ using System.ComponentModel;
 using System.Windows;
 using System.Windows.Controls;
 
-namespace MaterialDesignThemes.Wpf
+namespace mdWpf
 {
     [TemplateVisualState(GroupName = DirectionGroupName, Name = NoneStateName)]
     [TemplateVisualState(GroupName = DirectionGroupName, Name = AscendingStateName)]

@@ -1,7 +1,7 @@
 ﻿using System.Windows;
 using System.Windows.Controls.Primitives;
 
-namespace MaterialDesignThemes.Wpf
+namespace mdWpf
 {
     public class RatingBarButton : ButtonBase
     {

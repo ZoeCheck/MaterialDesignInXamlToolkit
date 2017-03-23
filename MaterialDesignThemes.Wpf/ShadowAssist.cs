@@ -4,7 +4,7 @@ using System.Windows.Media.Animation;
 using System.Windows.Media.Effects;
 using System.Windows.Navigation;
 
-namespace MaterialDesignThemes.Wpf
+namespace mdWpf
 {
     public enum ShadowDepth
     {

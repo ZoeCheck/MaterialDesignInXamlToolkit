@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MaterialDesignThemes.Wpf
+namespace mdWpf
 {
     internal static class StringExtensions
     {

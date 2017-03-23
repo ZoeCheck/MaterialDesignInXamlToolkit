@@ -5,7 +5,7 @@ using System.Runtime.InteropServices;
 using System.Text;
 using System.Windows;
 
-namespace MaterialDesignColors
+namespace mdColor
 {
     public class Swatch
     {

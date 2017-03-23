@@ -3,7 +3,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MaterialDesignThemes.Wpf.Converters.CircularProgressBar
+namespace mdWpf.Converters.CircularProgressBar
 {
     internal static class LocalEx
     {

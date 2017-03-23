@@ -71,9 +71,9 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\MaterialDesignColors.Wpf\MaterialDesignColors.Wpf.csproj">
+    <ProjectReference Include="..\MaterialDesignColors.Wpf\md.Color.csproj">
       <Project>{90B53209-C60C-4655-B28D-A1B3E1044BA3}</Project>
-      <Name>MaterialDesignColors.Wpf</Name>
+      <Name>md.Color</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

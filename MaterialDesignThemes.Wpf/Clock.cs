@@ -14,9 +14,9 @@ using System.Windows.Media.Converters;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
-using MaterialDesignThemes.Wpf.Converters;
+using mdWpf.Converters;
 
-namespace MaterialDesignThemes.Wpf
+namespace mdWpf
 {
 	public enum ClockDisplayMode
 	{

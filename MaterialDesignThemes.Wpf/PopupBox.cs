@@ -14,7 +14,7 @@ using System.Windows.Media;
 using System.Windows.Media.Animation;
 using ControlzEx;
 
-namespace MaterialDesignThemes.Wpf
+namespace mdWpf
 {
     /// <summary>
     /// Defines how the <see cref="PopupBox"/> popup is aligned to the toggle part of the control.

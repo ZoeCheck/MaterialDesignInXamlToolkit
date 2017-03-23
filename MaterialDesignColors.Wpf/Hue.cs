@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Windows.Media;
 
-namespace MaterialDesignColors
+namespace mdColor
 {
     public class Hue
     {

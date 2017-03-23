@@ -1,6 +1,6 @@
 using System.Windows;
 
-namespace MaterialDesignThemes.Wpf
+namespace mdWpf
 {
     public static class RippleAssist
     {

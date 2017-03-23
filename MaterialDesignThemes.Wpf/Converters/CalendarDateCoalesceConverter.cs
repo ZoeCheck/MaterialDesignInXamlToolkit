@@ -2,7 +2,7 @@ using System;
 using System.Globalization;
 using System.Windows.Data;
 
-namespace MaterialDesignThemes.Wpf.Converters
+namespace mdWpf.Converters
 {
     /// <summary>
     /// Help us format the content of a header button in a calendar.

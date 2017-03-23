@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using System.Windows;
 using System.Windows.Controls.Primitives;
 
-namespace MaterialDesignThemes.Wpf
+namespace mdWpf
 {
     public static class CustomPopupPlacementCallbackHelper
     {

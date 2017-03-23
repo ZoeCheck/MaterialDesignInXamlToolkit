@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Windows;
 
-namespace MaterialDesignThemes.Wpf
+namespace mdWpf
 {
     public class DialogClosingEventArgs : RoutedEventArgs
     {

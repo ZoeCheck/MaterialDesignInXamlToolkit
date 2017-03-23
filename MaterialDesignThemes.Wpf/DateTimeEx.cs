@@ -2,7 +2,7 @@
 using System.Globalization;
 using System.Linq;
 
-namespace MaterialDesignThemes.Wpf
+namespace mdWpf
 {
 	internal static class DateTimeEx
 	{

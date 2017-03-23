@@ -10,7 +10,7 @@ using System.Windows.Data;
 using System.Windows.Input;
 using System.Windows.Threading;
 
-namespace MaterialDesignThemes.Wpf
+namespace mdWpf
 {
     /// <summary>
     /// Defines how a data context is sourced for a dialog if a <see cref="FrameworkElement"/>

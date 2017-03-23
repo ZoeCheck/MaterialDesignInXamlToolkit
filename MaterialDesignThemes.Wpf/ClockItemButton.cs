@@ -3,7 +3,7 @@ using System.Windows;
 using System.Windows.Controls.Primitives;
 using System.Windows.Input;
 
-namespace MaterialDesignThemes.Wpf
+namespace mdWpf
 {	
 
 	[TemplatePart(Name = ThumbPartName, Type = typeof(Thumb))]

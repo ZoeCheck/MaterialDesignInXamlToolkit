@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 using System.Windows;
 using System.Windows.Data;
 
-namespace MaterialDesignThemes.Wpf.Converters
+namespace mdWpf.Converters
 {    
     public class CardClipConverter : IMultiValueConverter
     {

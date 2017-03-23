@@ -77,9 +77,9 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\MaterialDesignThemes.Wpf\MaterialDesignThemes.Wpf.csproj">
+    <ProjectReference Include="..\MaterialDesignThemes.Wpf\md.Wpf.csproj">
       <Project>{F079FB0A-A8ED-4216-B6A5-345756751A04}</Project>
-      <Name>MaterialDesignThemes.Wpf</Name>
+      <Name>md.Wpf</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

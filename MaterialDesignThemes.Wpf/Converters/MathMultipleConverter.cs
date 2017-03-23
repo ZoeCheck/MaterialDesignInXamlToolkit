@@ -7,7 +7,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Data;
 
-namespace MaterialDesignThemes.Wpf.Converters
+namespace mdWpf.Converters
 {
     public sealed class MathMultipleConverter : IMultiValueConverter
     {

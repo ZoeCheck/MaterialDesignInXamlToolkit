@@ -7,7 +7,7 @@ using System.Windows;
 using System.Windows.Controls.Primitives;
 using System.Windows.Media;
 
-namespace MaterialDesignThemes.Wpf
+namespace mdWpf
 {
     internal static class TreeHelper
     {

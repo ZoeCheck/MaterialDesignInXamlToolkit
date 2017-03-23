@@ -9,7 +9,7 @@ using System.Text.RegularExpressions;
 using System.Windows;
 using System.Windows.Media;
 
-namespace MaterialDesignColors
+namespace mdColor
 {
     public class SwatchesProvider
     {

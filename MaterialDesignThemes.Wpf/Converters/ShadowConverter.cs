@@ -8,7 +8,7 @@ using System.Windows;
 using System.Windows.Data;
 using System.Windows.Media.Effects;
 
-namespace MaterialDesignThemes.Wpf.Converters
+namespace mdWpf.Converters
 {
     public class ShadowConverter : IValueConverter
     {
@@ -17,7 +17,7 @@ namespace MaterialDesignThemes.Wpf.Converters
 
         static ShadowConverter()
         {
-            var resourceDictionary = new ResourceDictionary { Source = new Uri("pack://application:,,,/MaterialDesignThemes.Wpf;component/Themes/MaterialDesignTheme.Shadows.xaml", UriKind.Absolute) };
+            var resourceDictionary = new ResourceDictionary { Source = new Uri("pack://application:,,,/mdWpf;component/Themes/MaterialDesignTheme.Shadows.xaml", UriKind.Absolute) };
 
             ShadowsDictionary = new Dictionary<ShadowDepth, DropShadowEffect>
             {

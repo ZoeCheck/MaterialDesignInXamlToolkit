@@ -4,7 +4,7 @@ using System.Windows;
 using System.Windows.Data;
 using System.Windows.Media;
 
-namespace MaterialDesignThemes.Wpf.Converters
+namespace mdWpf.Converters
 {
     public class BrushRoundConverter : IValueConverter
     {

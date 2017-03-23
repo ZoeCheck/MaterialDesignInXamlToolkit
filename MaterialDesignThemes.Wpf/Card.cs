@@ -7,7 +7,7 @@ using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Media;
 
-namespace MaterialDesignThemes.Wpf
+namespace mdWpf
 {
     /// <summary>
     /// A card is a content control, styled according to Material Design guidelines.

@@ -6,9 +6,9 @@ using System.Windows.Controls.Primitives;
 using System.Windows.Data;
 using System.Windows.Input;
 using System.Windows.Threading;
-using MaterialDesignThemes.Wpf.Converters;
+using mdWpf.Converters;
 
-namespace MaterialDesignThemes.Wpf
+namespace mdWpf
 {
 	[TemplatePart(Name = ElementButton, Type = typeof(Button))]
 	[TemplatePart(Name = ElementPopup, Type = typeof(Popup))]

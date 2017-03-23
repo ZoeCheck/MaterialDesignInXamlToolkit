@@ -1,6 +1,6 @@
 using System.Windows;
 
-namespace MaterialDesignThemes.Wpf
+namespace mdWpf
 {
 	public delegate void ClockChoiceMadeEventHandler(object sender, ClockChoiceMadeEventArgs e);
 

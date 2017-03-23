@@ -8,16 +8,14 @@ using System.Windows.Markup;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("MaterialDesignThemes.Wpf")]
-[assembly: AssemblyDescription("Material Design in XAML Toolkit - WPF Themes")]
+[assembly: AssemblyTitle("mdWpf")]
+[assembly: AssemblyDescription("mdWpf")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Mulholland Software/James Willock")]
-[assembly: AssemblyProduct("MaterialDesignColors.Wpf")]
+[assembly: AssemblyCompany("mdWpf")]
+[assembly: AssemblyProduct("mdWpf")]
 [assembly: AssemblyCopyright("Copyright © 2015")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
-[assembly: XmlnsPrefix("http://materialdesigninxaml.net/winfx/xaml/themes", "materialDesign")]
-[assembly: XmlnsDefinition("http://materialdesigninxaml.net/winfx/xaml/themes", "MaterialDesignThemes.Wpf")]
 
 // Setting ComVisible to false makes the types in this assembly not visible 
 // to COM components.  If you need to access a type in this assembly from 

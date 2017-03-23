@@ -2,7 +2,7 @@ using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Data;
 
-namespace MaterialDesignThemes.Wpf
+namespace mdWpf
 {
     public class MaterialDataGridComboBoxColumn : DataGridComboBoxColumn //DataGridBoundColumn
     {
